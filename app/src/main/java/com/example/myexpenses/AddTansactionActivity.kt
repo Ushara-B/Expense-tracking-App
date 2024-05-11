@@ -1,4 +1,4 @@
-package com.alterpat.budgettracker
+package com.example.myexpenses
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
