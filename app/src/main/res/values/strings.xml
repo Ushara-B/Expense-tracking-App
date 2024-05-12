@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Budget Tracker</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="_hint">Description</string>
+    <string name="amount">Amount</string>
+    <string name="label">Label</string>
+    <string name="label1">Label</string>
+    <string name="amnt">Amount</string>
+    <string name="description">Description</string>
+    <string name="update_transaction">Update transaction</string>
+    <string name="totaltxt">Total Balance</string>
+    <string name="bugettxt">$300</string>
+    <string name="budgttxt2">$400</string>
+    <string name="_400">$400</string>
+    <string name="expensetxt">Expense</string>
+    <string name="transactions">Transactions</string>
 </resources>

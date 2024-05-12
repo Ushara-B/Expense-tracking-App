@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="12dp"
             android:layout_marginEnd="12dp"
-            android:hint="Label"
+            android:hint="@string/label"
             app:errorEnabled="true">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="12dp"
             android:layout_marginEnd="12dp"
-            android:hint="Amount"
+            android:hint="@string/amount"
             app:errorEnabled="true">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -70,7 +70,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="12dp"
             android:layout_marginEnd="12dp"
-            android:hint="Description"
+            android:hint="@string/_hint"
             app:errorEnabled="true">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -85,11 +85,11 @@
             android:id="@+id/addTransactionBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Add transaction"
+            android:text="@string/add_transaction"
             android:layout_marginStart="12dp"
             android:layout_marginEnd="12dp"
             android:padding="12dp"
-            android:background="@color/green"
+            android:background="@color/colorPrimaryDark"
             android:textColor="@android:color/white"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
