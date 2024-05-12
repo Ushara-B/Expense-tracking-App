@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.room.Room
-import com.alterpat.budgettracker.Transaction
+import com.example.myexpenses.Transaction
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_add_transaction.*
 import kotlinx.android.synthetic.main.activity_main.*
