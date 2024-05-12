@@ -1,7 +1,7 @@
 package com.example.myexpenses
 
-
 import androidx.room.*
+import com.alterpat.budgettracker.Transaction
 
 @Dao
 interface TransactionDao {
